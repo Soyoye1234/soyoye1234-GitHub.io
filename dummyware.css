@@ -1,0 +1,9 @@
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus {
+  color: black;
+  background-color: #428bca;
+  font-weight: bold;
+}
+gungsuh
+#d7d7d7
